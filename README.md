@@ -1,10 +1,10 @@
+## Allive TV (https://hisona.github.io/allive)
+
 # ** 공지 ** 
 
 * 재생이 안되시는 분들은 PC 에서 브라우저로 로그인해서 재생이 되는지 먼저 확인하셔서 계정 관련 문제가 없는지 확인해 보시기 바랍니다.
 * 개인적으로 테스트 기기도 없고 개별적인 이슈에 대해서 대응이 불가합니다.
 * 메일이나 이슈로 질문 남기셔도 일일히 답변 드릴 수 없다는 점 양해해 주시기 바랍니다.  
-
-## Allive TV (https://hisona.github.io/allive)
 
 * Allive TV 는 Android TV 에서 WAVVE 와 TVING 실시간 채널을 시청할 수 있는 AndroidTV 앱입니다. 
 * 이 프로젝트는 [ALL TV](https://github.com/PYTHONKOR/alltv) 에서 fork 된 프로젝트입니다. 그 동안 ALLTV v1.5 부터 코드를 기여하고 있었으나 코드를 공개하는데 민감한 부분이 있어서 별도 프로젝트로 전환하였습니다(이 프로젝트의 개발자는 WAVVE 와 TVING 과는 아무런 관련이 없는 순수한 개인 개발자입니다). 
